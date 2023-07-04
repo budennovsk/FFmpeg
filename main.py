@@ -8,7 +8,6 @@ path_directory = 'E:\TEST'
 padding = 4
 
 
-# print(os.path.join(root, file))
 def get_sequence():
     """ Функция для получения имени файлов и пути"""
     c = 0
