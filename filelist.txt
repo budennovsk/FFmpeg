@@ -1,0 +1,1 @@
+file 'E:\TEST\sea\burn\burn_%04d.jpg'
